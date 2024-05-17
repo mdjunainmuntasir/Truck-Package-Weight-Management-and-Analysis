@@ -1,0 +1,1 @@
+Developed a C program to manage and analyze package weights for trucks, aiding in logistics and transportation planning. Implemented features for inputting package weights for multiple trucks, calculating statistics such as average weight per truck, and identifying the highest and lowest package weights across all trucks. 
